@@ -1,0 +1,128 @@
+fileFormatVersion: 2
+guid: 192e70b9e58e04b6cb50dae6fa2a13b4
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: ChamferCy0
+    100002: ChamferCy1
+    100004: ChamferCy2
+    100006: ChamferCy3
+    100008: ChamferCy4
+    100010: ChamferCyl
+    100012: Cylinder01
+    100014: Cylinder02
+    100016: Cylinder03
+    100018: 'Fmm Garda '
+    100020: IF__Cerato
+    100022: Propp
+    100024: //RootNode
+    100026: Sphere01
+    100028: Sphere02
+    400000: ChamferCy0
+    400002: ChamferCy1
+    400004: ChamferCy2
+    400006: ChamferCy3
+    400008: ChamferCy4
+    400010: ChamferCyl
+    400012: Cylinder01
+    400014: Cylinder02
+    400016: Cylinder03
+    400018: 'Fmm Garda '
+    400020: IF__Cerato
+    400022: Propp
+    400024: //RootNode
+    400026: Sphere01
+    400028: Sphere02
+    2300000: ChamferCy0
+    2300002: ChamferCy1
+    2300004: ChamferCy2
+    2300006: ChamferCy3
+    2300008: ChamferCy4
+    2300010: ChamferCyl
+    2300012: Cylinder01
+    2300014: Cylinder02
+    2300016: Cylinder03
+    2300018: IF__Cerato
+    2300020: Propp
+    2300022: Sphere01
+    2300024: Sphere02
+    3300000: ChamferCy0
+    3300002: ChamferCy1
+    3300004: ChamferCy2
+    3300006: ChamferCy3
+    3300008: ChamferCy4
+    3300010: ChamferCyl
+    3300012: Cylinder01
+    3300014: Cylinder02
+    3300016: Cylinder03
+    3300018: IF__Cerato
+    3300020: Propp
+    3300022: Sphere01
+    3300024: Sphere02
+    4300000: Cylinder01
+    4300002: Cylinder02
+    4300004: ChamferCyl
+    4300006: Cylinder03
+    4300008: ChamferCy0
+    4300010: ChamferCy1
+    4300012: ChamferCy2
+    4300014: Sphere01
+    4300016: Sphere02
+    4300018: ChamferCy3
+    4300020: ChamferCy4
+    4300022: Propp
+    4300024: IF__Cerato
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

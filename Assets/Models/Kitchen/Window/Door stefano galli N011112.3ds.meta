@@ -1,0 +1,86 @@
+fileFormatVersion: 2
+guid: 6999fe26989064483b8505d8de2c0c61
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: air_chambe
+    100002: chrome
+    100004: //RootNode
+    100006: fixture
+    100008: glass
+    100010: metal
+    400000: air_chambe
+    400002: chrome
+    400004: //RootNode
+    400006: fixture
+    400008: glass
+    400010: metal
+    2300000: air_chambe
+    2300002: chrome
+    2300004: fixture
+    2300006: glass
+    2300008: metal
+    3300000: air_chambe
+    3300002: chrome
+    3300004: fixture
+    3300006: glass
+    3300008: metal
+    4300000: chrome
+    4300002: air_chambe
+    4300004: glass
+    4300006: fixture
+    4300008: metal
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

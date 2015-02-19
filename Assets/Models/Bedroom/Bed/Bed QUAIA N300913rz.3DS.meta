@@ -1,0 +1,136 @@
+fileFormatVersion: 2
+guid: 1e390f63dace84fc19bb9d824bb0921d
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Box01
+    100004: Box02
+    100006: Box05
+    100008: Box06
+    100010: Box08
+    100012: Cover
+    100014: Line01
+    100016: Line03
+    100018: Line04
+    100020: Line05
+    100022: Line07
+    100024: Line08
+    100026: Matras
+    100028: Pillow-01
+    100030: Pillow-02
+    400000: //RootNode
+    400002: Box01
+    400004: Box02
+    400006: Box05
+    400008: Box06
+    400010: Box08
+    400012: Cover
+    400014: Line01
+    400016: Line03
+    400018: Line04
+    400020: Line05
+    400022: Line07
+    400024: Line08
+    400026: Matras
+    400028: Pillow-01
+    400030: Pillow-02
+    2300000: Box01
+    2300002: Box02
+    2300004: Box05
+    2300006: Box06
+    2300008: Box08
+    2300010: Cover
+    2300012: Line01
+    2300014: Line03
+    2300016: Line04
+    2300018: Line05
+    2300020: Line07
+    2300022: Line08
+    2300024: Matras
+    2300026: Pillow-01
+    2300028: Pillow-02
+    3300000: Box01
+    3300002: Box02
+    3300004: Box05
+    3300006: Box06
+    3300008: Box08
+    3300010: Cover
+    3300012: Line01
+    3300014: Line03
+    3300016: Line04
+    3300018: Line05
+    3300020: Line07
+    3300022: Line08
+    3300024: Matras
+    3300026: Pillow-01
+    3300028: Pillow-02
+    4300000: Box02
+    4300002: Line01
+    4300004: Box05
+    4300006: Box06
+    4300008: Line03
+    4300010: Line04
+    4300012: Line05
+    4300014: Line07
+    4300016: Line08
+    4300018: Box08
+    4300020: Pillow-01
+    4300022: Cover
+    4300024: Matras
+    4300026: Pillow-02
+    4300028: Box01
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
